@@ -1,0 +1,25 @@
+table tr td { 
+	border: 1px solid black; /* borda da tabela */
+}
+
+table{ 
+	width: 80%; /*largura da tabela*/
+	margin: auto; /*alinhamento centralizado da tabela*/
+} 
+
+button{
+	color: #34e8eb; /*cor do botão*/
+	background-color: #33166b; /*cor de fundo do botão*/
+	font-size: 15px; /*tamanho da fonte*/
+	border-radius:  20px 50px 5px 40px; /* arredonda os cantos*/
+	
+	
+
+	margin: 5px 50px 20px 0px; /* resume toods os 4 anteriores */
+
+	padding-top: 10px; /*margem interna topo*/
+	padding-bottom: 10px; /*margem interna inferior*/
+	padding-left: 20px; /*margem interna esquerda*/
+	padding-right: 20px; /*margem interna direita*/
+	
+}

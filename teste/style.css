@@ -23,3 +23,21 @@ button{
 	padding-right: 20px; /*margem interna direita*/
 	
 }
+
+h1{
+	color: #3275a8;
+	font-size: 50px;
+	font-family:'algerian' ;
+}
+p{
+	color: #3275a8;
+	font-size: 20px;
+	font-family:'algerian' ;
+	text-align: justify;
+}
+span{
+	color:#C71585;
+	font-size: 25px;
+	font-family:'Goudy Stout' ;
+}
+
